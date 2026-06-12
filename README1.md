@@ -40,7 +40,7 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
 
-(Add your Vercel link here later)
+[horizon-tech-x-calculator-app-qpf3.vercel.app](https://horizon-tech-x-calculator-app-qpf3.vercel.app/)
 
 ---
 
